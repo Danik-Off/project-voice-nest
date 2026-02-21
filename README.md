@@ -286,7 +286,7 @@ See [WEBSOCKET_TROUBLESHOOTING.md](WEBSOCKET_TROUBLESHOOTING.md) for WebSocket-s
 
 ## License
 
-This project is licensed under the UNLICENSED license.
+This project is licensed under the MIT license.
 
 ## Support
 
