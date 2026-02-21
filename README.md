@@ -1,3 +1,4 @@
+# ps переводы для md будут позже
 # ProjectVoice
 
 A voice communication application built with NestJS, featuring real-time messaging, server management, and WebRTC support.
